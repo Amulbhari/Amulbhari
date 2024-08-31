@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amulbhari
+- 👋 Hi, I’m @Amulbharti
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis
 - 📫 You reach me through my gamil - amulbharti990@gmail.com
