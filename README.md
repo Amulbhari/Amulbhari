@@ -1,3 +1,4 @@
+- Aspiring Data Analyst | Python | SQL | Data Visualization
 - 👋 Hi, I’m @Amulbharti.
 - 👀 I’m interested in Data Analytics And Full Stack Developer.
 - 🌱 I’m currently learning Data Analysis and Full Stack Development.
