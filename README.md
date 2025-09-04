@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amulbharti.
 - Aspiring Data Analyst | Python | SQL | Data Visualization
 - 📫 You reach me through my gamil - amulbharti990@gmail.com
+- Kaggle - https://www.kaggle.com/amulbharti
 - 😄 Pronouns: he/him.
 - 🫀 I like PC Gaming.
 
