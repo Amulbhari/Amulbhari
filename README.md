@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Amulbharti.
+- Hi, I’m @Amulbharti.
 - Aspiring Data Analyst | Python | SQL | Data Visualization
-- 📫 You reach me through my gamil - amulbharti990@gmail.com
+- You reach me through my gamil - amulbharti990@gmail.com
 - Kaggle - https://www.kaggle.com/amulbharti
-- 😄 Pronouns: he/him.
-- 🫀 I like PC Gaming.
+- Pronouns: he/him.
+- I like PC Gaming.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/amulgaming) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/796000349755277372) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bharti._.amul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amul-bharti-726244319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amulbharti990@gmail.com) 
